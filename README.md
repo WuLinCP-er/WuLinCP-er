@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kali Linux, competitive programming, prompt engineering**
 
-- 📄 Know about my experiences [A specialist on 5 Vietnamese online judges and 1 global online judge.](A specialist on 5 Vietnamese online judges and 1 global online judge.)
+- 📄 Know about my experiences [ A specialist on 5 Vietnamese online judges and 1 global online judge.]
 
 - ⚡ Fun fact **I'm just a goofy who happens to know how to code**
 
