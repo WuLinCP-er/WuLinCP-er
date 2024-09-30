@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Wulin aka LoserDuck</h1>
-<h2>It is a privilege to meet you here</h2>
+<h1>Hi ✌️, I'm Wulin aka LoserDuck</h1>
+<h2>It is a privilege to meet you here 👀</h2>
 <h3>About Me: </h3>
 - 👩🏻‍💻 I’m currently learning **Kali Linux, competitive programming, prompt engineering**
 
@@ -9,7 +9,8 @@
 
 - 🎓 I'm currently a student at **Le Hong Phong High School for the Gifted**
 
-
+<h2>Project<h2>
+- Virtual Music Curator integrates Spotify API (graduation project of the AI minicourse)
 <h2>Competitive Programming</h2>
 <h3>Global online judges</h3>
 <p align="left">
