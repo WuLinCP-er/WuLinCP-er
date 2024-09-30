@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Wulin</h1>
-<h3 align="center">Competitive Programmer (Prompt Engineer Intern)</h3>
+<h1>Hi 👋, I'm Wulin</h1>
+<h2>Competitive Programmer (Prompt Engineer Intern)</h2>
 
 - 🌱 I’m currently learning **Kali Linux, competitive programming, prompt engineering**
 
-- 📄 Know about my experiences [ A specialist on 5 Vietnamese online judges and 1 global online judge.]
+- 📄 Know about my experiences **[ A specialist on 5 Vietnamese online judges and 1 global online judge.]**
 
 - ⚡ Fun fact **I'm just a goofy who happens to know how to code**
+
+- 🎓 I am currently a student at **Le Hong Phong High School for the Gifted**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
