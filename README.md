@@ -10,7 +10,7 @@
 - 🎓 I'm currently a student at **Le Hong Phong High School for the Gifted**
 
 <h2>Project<h2>
-- Virtual Music Curator integrates Spotify API (graduation project of the AI minicourse)
+<h3>Virtual Music Curator integrates Spotify API (graduation project of the AI minicourse)<h3>
 <h2>Competitive Programming</h2>
 <h3>Global online judges</h3>
 <p align="left">
