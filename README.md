@@ -11,7 +11,7 @@
 - 🎓 I'm currently a student at **Le Hong Phong High School for the Gifted**
 
 <h2> Project 
-<h5>- Virtual Music Curator integrates Spotify API (graduation project of the AI minicourse)</h5>
+<h4> - Virtual Music Curator integrates Spotify API (graduation project of the AI minicourse)</h4>
   
 <h2>
 
