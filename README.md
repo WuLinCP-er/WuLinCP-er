@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Wulin</h1>
 <h2>Competitive Programmer (Prompt Engineer Intern)</h2>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wulincp-er&label=Profile%20views&color=0e75b6&style=flat" alt="wulincp-er" /> </p>
 - 🌱 I’m currently learning **Kali Linux, competitive programming, prompt engineering**
 
 - 📄 Know about my experiences **[ A specialist on 5 Vietnamese online judges and 1 global online judge.]**
