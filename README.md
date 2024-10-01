@@ -10,14 +10,12 @@
 
 - 🎓 I'm currently a student at **Le Hong Phong High School for the Gifted**
 
-<h2> Project 
+<h2> Project
 <h4> - Virtual Music Curator integrates Spotify API (graduation project of the AI minicourse)</h4>
   
-<h2>
-
   
-<h3>Competitive Programming</h2>
-<h4>Global online judges</h3>
+<h3>Competitive Programming</h3>
+<h4>Global online judges</h4>
 <p align="left">
 <a href="https://codeforces.com/profile/baolam1202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="baolam1202" height="30" width="40" /></a>
 
